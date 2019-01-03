@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'http://jigsaw-docs-staging.tighten.co',
+    'baseUrl' => 'http://howto.cardhacking.localhost',
     'production' => false,
 
     // DocSearch credentials

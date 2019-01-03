@@ -1,10 +1,10 @@
 <?php
 
 return [
-    'baseUrl' => '',
+    'baseUrl' => 'http://localhost:3000',
     'production' => false,
-    'siteName' => 'Docs Starter Template',
-    'siteDescription' => 'Beautiful docs powered by Jigsaw',
+    'siteName' => 'How to Use Credit Cards to Travel for Free',
+    'siteDescription' => 'A Beautiful Guide powered by CardHacking.com',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
