@@ -4,11 +4,16 @@ return [
     'Getting Started' => [
         'url' => 'docs/getting-started',
         'children' => [
-            'Customizing Your Site' => 'docs/customizing-your-site',
-            'Navigation' => 'docs/navigation',
-            'Algolia DocSearch' => 'docs/algolia-docsearch',
-            'Custom 404 Page' => 'docs/custom-404-page',
+            'When NOT to Card Hack' => 'docs/when-not-to-card-hack',
+            'Planning Your First Trip' => 'docs/planning-your-first-trip',
+            // 'Algolia DocSearch' => 'docs/algolia-docsearch',
+            // 'Custom 404 Page' => 'docs/custom-404-page',
         ],
     ],
-    'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
+    'Example Trip' => [
+        'url' => 'docs/example-trip',
+        'children' => [
+            'How To Get There' => 'docs/example-trip#how-to-get-there',
+        ],
+    ]
 ];
